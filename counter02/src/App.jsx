@@ -13,11 +13,23 @@ function App() {
     //console.log("Clicked", counter);
     //Problem in ui updation | react will decide
     //react provides some methods called hooks
-    setCounter(counter + 1)
+    if (counter === 10) {
+      alert("Maximum Value reached")
+    }
+    else{
+      setCounter(counter + 1)
+    }
+
+   
   }
 
   const subValue = () => {
-    setCounter(counter - 1)
+    if (counter === 0) {
+      alert("Minimum Value reached")      
+    }
+    else{
+      setCounter(counter - 1)
+    }
   }
 
   return (
