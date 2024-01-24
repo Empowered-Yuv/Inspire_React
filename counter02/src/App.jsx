@@ -35,7 +35,7 @@ function App() {
   return (
     <>
       <h1>Ritika And Yuv</h1>
-      <h2>Counter value: {counter}</h2>
+      <h2>Love on a scale : {counter}</h2>
 
       <button
       onClick={addValue}
