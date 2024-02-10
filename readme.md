@@ -19,3 +19,19 @@ pehle store (single source of truth) banana hai, store to reducer btana padega
 Using redux persist and PersistGate u can save the changes in the local storage
 
 Thankyou Chatgpt
+
+
+**MEGA PROJECT**
+
+Appwrite - Open Source Backend as a Service
+
+Same as Firebase but it is google's proprietary software
+
+Tiny mce of React - Rich text editor
+Tiny cloud
+
+html react parser - for parsing
+
+React hook form - error controlling, handling forms, real time slug generating (Recent Library)
+
+ENV variables (.env)
