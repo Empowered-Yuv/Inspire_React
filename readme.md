@@ -34,4 +34,5 @@ html react parser - for parsing
 
 React hook form - error controlling, handling forms, real time slug generating (Recent Library)
 
-ENV variables (.env)
+**ENV variables (.env)**
+in vite some docs must be read
