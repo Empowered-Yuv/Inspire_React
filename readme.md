@@ -12,3 +12,10 @@ Context api global variable mai saara data jaata hai but ek problem hai koi bhi 
 
 Good practices 
 react-router-dom package
+
+Redux 
+pehle store (single source of truth) banana hai, store to reducer btana padega
+
+Using redux persist and PersistGate u can save the changes in the local storage
+
+Thankyou Chatgpt
