@@ -24,6 +24,8 @@ import Input from './Input'
 
 import Select from './Select'
 
+import Button from './Button'
+
 export {
     Header,
     Footer,
@@ -38,4 +40,5 @@ export {
     AuthLayout,
     Input,
     Select,
+    Button,
 }
